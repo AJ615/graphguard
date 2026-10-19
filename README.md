@@ -205,7 +205,7 @@ python -m pytest tests/ -v
 - LLM mode: Anthropic only (OpenAI not implemented)
 - Depth-2 traversal: intermediate nodes not tenant-filtered (documented limitation)
 - Risk scoring is heuristic, not calibrated against real security data
-- No demo video yet — must be recorded before submission
+- - Demo video: https://drive.google.com/file/d/1X8Ibsx8a7RHDlJ7wu0fKHkXBozvE-jJj/view?usp=sharing
 - No live deployment — local setup only
 
 ---
@@ -253,4 +253,4 @@ This project was built with assistance from AI coding tools (Claude Sonnet). The
 
 - Demo video: _(not yet recorded)_
 - Live deployment: _(local only)_
-- Repository: _(to be published)_
+- - Repository: https://github.com/AJ615/graphguard
