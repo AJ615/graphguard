@@ -205,7 +205,6 @@ python -m pytest tests/ -v
 - LLM mode: Anthropic only (OpenAI not implemented)
 - Depth-2 traversal: intermediate nodes not tenant-filtered (documented limitation)
 - Risk scoring is heuristic, not calibrated against real security data
-- - Demo video: https://drive.google.com/file/d/1X8Ibsx8a7RHDlJ7wu0fKHkXBozvE-jJj/view?usp=sharing
 - No live deployment — local setup only
 
 ---
@@ -253,3 +252,4 @@ This project was built with assistance from AI coding tools (Claude Sonnet). The
 
 - Demo video: https://drive.google.com/file/d/1X8Ibsx8a7RHDlJ7wu0fKHkXBozvE-jJj/view?usp=sharing
 - Repository: https://github.com/AJ615/graphguard
+- Blog: https://dev.to/aj615/how-we-used-falkordb-to-make-a-security-alert-explain-itself-3dbd
