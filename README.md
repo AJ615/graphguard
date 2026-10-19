@@ -251,6 +251,5 @@ This project was built with assistance from AI coding tools (Claude Sonnet). The
 
 ## Links
 
-- Demo video: _(not yet recorded)_
-- Live deployment: _(local only)_
+- Demo video: https://drive.google.com/file/d/1X8Ibsx8a7RHDlJ7wu0fKHkXBozvE-jJj/view?usp=sharing
 - - Repository: https://github.com/AJ615/graphguard
